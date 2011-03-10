@@ -1,0 +1,27 @@
+#+TITLE: Home page of Jonas Rodrigues
+#+AUTHOR: Jonas Rodrigues
+#+EMAIL: jxonas@gmail.com
+#+DATE: 2011-03-10 qui
+#+DESCRIPTION: 
+#+KEYWORDS: 
+#+LANGUAGE: en
+#+OPTIONS: H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT: 
+
+* About
+  Hi, My name is Jonas Rodrigues (jxonas) and this is my website. I am
+  a mathematitian and work at [[http://www.unisoma.com][UniSoma]].
+
+  My interests are
+  - [[http://en.wikipedia.org/wiki/Common_Lisp][Common Lisp]]
+  - Artificial Inteligence
+  - [[https://github.com/jxonas/clAmms][Optimization]]
+  - Solving problems in general
+
+  I'm also an Yoga Teacher. Come to [[http://www.iyn.com.br/][IYN]] for an experimental class (;
