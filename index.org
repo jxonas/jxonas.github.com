@@ -1,4 +1,4 @@
-#+TITLE: Home page of Jonas Rodrigues
+#+TITLE: Jonas Rodrigues
 #+AUTHOR: Jonas Rodrigues
 #+EMAIL: jxonas@gmail.com
 #+DATE: 2011-03-10 qui
